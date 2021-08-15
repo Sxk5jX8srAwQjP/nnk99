@@ -1,3 +1,0 @@
-const app = vue.createApp({
-
-})
